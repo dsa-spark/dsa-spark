@@ -3,7 +3,10 @@ title = "Points of Unity"
 description = "The unifying politics of DSA Spark."
 date = "2017-09-11"
 slug = "points-of-unity"
-menu = "main"
+type = "about"
+[menu.main]
+name = "Points of Unity"
+weight = 2
 +++
 
 Points of Unity outline for the DSA Spark

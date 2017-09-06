@@ -2,9 +2,11 @@
 title = "Political Education"
 description = "Recommdned readings"
 date = "2017-09-11"
-type = "single"
+type = "about"
 slug = "education"
-menu = "main"
+[menu.main]
+name = "Political Education"
+weight = 3
 +++
 
 ### Mike Macnair's  _Revolutionary Strategy_
