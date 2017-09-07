@@ -14,8 +14,8 @@
               {{ .Title }}
             </a>
         </h1>
-        <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span> 
         <p><em>{{ .Params.author }}</em></p>
+        <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span> 
         <p>{{ if .Params.summary }}{{ .Params.summary }}{{ else }}{{ .Summary }}{{ end }}</p>
       </div>
       {{ end }}

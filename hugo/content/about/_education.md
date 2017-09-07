@@ -17,4 +17,33 @@ The centre-left - where it has not joined forces with the neoliberal right - cli
 
 To move beyond this impasse we need to re-examine critically the strategic ideas of socialists since Marx and Engels’ time. This book begins the task.
 
-[PDF](/downloads/mike_macnair_revolutionary_strategy.pdf)
+\[[PDF](/downloads/mike_macnair_revolutionary_strategy.pdf)\]
+
+### Hal Draper's _Anatomy of the Micro-Sect_
+
+A short piece on sectarianism and the way to rebuild a socialist movement in America.
+
+\[[Online Text](https://www.marxists.org/archive/draper/1973/xx/microsect.htm)\]
+
+### Nikolai Bukharin's _Program for the World Revolution_
+
+One of the chief theorists of the Bolsheviks, Nikolai Bukharin lays out some of the practical steps needed to ensure working class political rule in Russia and why Communists broke with the Social Democrats.
+
+\[[Online Text](https://www.marxists.org/archive/bukharin/works/1918/worldrev/index.html)\]  \[[PDF Scan](/downloads/nikolai-bukharin-program-for-a-world-revolution.pdf)\]
+
+
+### Articles by Mike Macnair
+
+Articles from the _Weekly Worker_, the periodical from the [Communist Party of Great Britain](http://weeklyworker.co.uk).
+
+#### _Taking Sides_
+
+Do socialists need to choose a side in capitalist wars and other disputes?
+
+\[[Online Text](http://weeklyworker.co.uk/worker/532/the-politics-of-taking-sides/)\]
+
+#### _Rethinking the Alternative_
+
+Should the movement have a final goal? Mike Macnair argues for the maximum program.
+
+\[[Online Text](http://weeklyworker.co.uk/worker/1053/thinking-the-alternative/)\]
