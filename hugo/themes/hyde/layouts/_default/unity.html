@@ -8,6 +8,10 @@
       <h1>{{ .Title }}</h1>
       {{ .Content }}
     </div>
+
+    {{ if .Site.Params.disqusShortname }}
+    <h2>Comments</h2>
+    {{ partial "disqus" . }} {{ end }}
   </div>
 
 </body>

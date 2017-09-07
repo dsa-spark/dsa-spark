@@ -2,7 +2,7 @@
 title = "Political Education"
 description = "Recommdned readings"
 date = "2017-09-11"
-type = "about"
+layout = "about"
 slug = "education"
 [menu.main]
 name = "Political Education"
@@ -44,6 +44,6 @@ Do socialists need to choose a side in capitalist wars and other disputes?
 
 #### _Rethinking the Alternative_
 
-Should the movement have a final goal? Mike Macnair argues for the maximum program.
+Should the workers' movement have a final goal? An arguement for the maximum program.
 
 \[[Online Text](http://weeklyworker.co.uk/worker/1053/thinking-the-alternative/)\]
