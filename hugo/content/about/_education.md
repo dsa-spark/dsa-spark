@@ -23,13 +23,13 @@ To move beyond this impasse we need to re-examine critically the strategic ideas
 
 A short piece on sectarianism and the way to rebuild a socialist movement in America.
 
-\[[Online Text](https://www.marxists.org/archive/draper/1973/xx/microsect.htm)\]
+\[[Online Text](https://www.marxists.org/archive/draper/1973/xx/microsect.htm)\]  \[[PDF](/downloads/hal-draper-anatomy-of-the-micro-sect.pdf)\]
 
 ### Nikolai Bukharin's _Program for the World Revolution_
 
 One of the chief theorists of the Bolsheviks, Nikolai Bukharin lays out some of the practical steps needed to ensure working class political rule in Russia and why Communists broke with the Social Democrats.
 
-\[[Online Text](https://www.marxists.org/archive/bukharin/works/1918/worldrev/index.html)\]  \[[PDF Scan](/downloads/nikolai-bukharin-program-for-a-world-revolution.pdf)\]
+\[[Online Text](https://www.marxists.org/archive/bukharin/works/1918/worldrev/index.html)\]  \[[PDF](/downloads/nikolai-bukharin-program-for-a-world-revolution.pdf)\]
 
 
 ### Articles by Mike Macnair
