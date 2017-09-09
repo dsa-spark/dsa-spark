@@ -9,7 +9,7 @@
       <p>By {{ .Params.author }}</p>
       <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
       <em>{{ if .Params.summary }}{{ .Params.summary }}{{ else }}{{ end }}</em>
-      <br>
+      {{ if .Params.image }}<img src="/images/{{ .Params.image }}" />{{ else }}<br>{{ end }}
       <hr> {{ .Content }}
     </div>
 
