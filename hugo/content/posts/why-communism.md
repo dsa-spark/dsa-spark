@@ -3,11 +3,13 @@ title = "Why Communism?"
 author = "Anton Johannsen"
 description = "Positions of the Spark"
 layout="article"
-date = "2017-09-12"
-tags = ["communism", "intro", "anton-johannsen", "republicanism"]
+date = "2017-09-10"
+tags = ["communism", "socialism", "intro", "anton-johannsen", "republicanism"]
 summary = "Communism doesn’t aim to negate democracy but fulfill its promises of universal human emancipation."
 image = "posts/why-communism/french-revolution-womens_march_on_versailles.jpg"
 +++
+
+_This article was originally posted by the [Communist League of Tampa](https://communistleaguetampa.org/2017/06/22/why-communism/) and has been reposted with permission._
 
 I told a friend of my cousin that I was a communist. The response was a reflexive chuckle and an incredulous “_Really?_ Why?” I think this sums up ‘communism’ for most people in the U.S. To American conservatives communism is the ideology of the state. The state infringes upon the rights of the individual, most importantly the right to private property, on behalf of some collectivity. While American liberals will often justify state coercion as in the best interest of the nation, most American conservatives doubt the usefulness of state intervention or existence at all.
 

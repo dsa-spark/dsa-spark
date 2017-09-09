@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dsaspark.org/posts/why-communism/</loc>
-    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+    <loc>https://dsaspark.org/</loc>
+    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dsaspark.org/</loc>
+    <loc>https://dsaspark.org/posts/merger-formula/</loc>
     <lastmod>2017-09-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://dsaspark.org/posts/why-communism/</loc>
+    <lastmod>2017-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dsaspark.org/about/</loc>
     <lastmod>2017-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -30,13 +35,13 @@
   
   <url>
     <loc>https://dsaspark.org/tags/anton-johannsen/</loc>
-    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dsaspark.org/posts/</loc>
-    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -46,25 +51,43 @@
   
   <url>
     <loc>https://dsaspark.org/tags/communism/</loc>
-    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dsaspark.org/tags/intro/</loc>
-    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsaspark.org/tags/labor-movemnt/</loc>
+    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsaspark.org/tags/merger-formular/</loc>
+    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dsaspark.org/tags/republicanism/</loc>
-    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsaspark.org/tags/socialism/</loc>
+    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dsaspark.org/tags/</loc>
-    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

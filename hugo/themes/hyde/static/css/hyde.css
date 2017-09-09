@@ -134,6 +134,12 @@ a.sidebar-nav-item:focus {
   background: #fcf5eb;
 }
 
+.content .center img {
+  display: block;
+  margin: auto;
+  width: 90%;
+}
+
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
