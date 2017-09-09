@@ -1,4 +1,4 @@
-baseURL = "http://dsaspark.org/"
+baseURL = "http://localhost"
 languageCode = "en-us"
 title = "DSA Spark"
 theme = "hyde"
