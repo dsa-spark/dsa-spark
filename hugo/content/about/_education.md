@@ -34,7 +34,7 @@ One of the chief theorists of the Bolsheviks, Nikolai Bukharin lays out some of 
 
 ### Articles by Mike Macnair
 
-Articles from the _Weekly Worker_, the periodical from the [Communist Party of Great Britain](http://weeklyworker.co.uk).
+Articles from the [_Weekly Worker_](http://weeklyworker.co.uk), the periodical from the [Communist Party of Great Britain](http://cpgb.org.uk).
 
 #### _Taking Sides_
 
