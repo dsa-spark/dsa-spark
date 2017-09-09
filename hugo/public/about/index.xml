@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on DSA Spark</title>
+    <link>https://dsaspark.org/about/</link>
+    <description>Recent content in Abouts on DSA Spark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CC-BY-SA 4.0</copyright>
+    <lastBuildDate>Mon, 11 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dsaspark.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Points of Unity</title>
+      <link>https://dsaspark.org/about/points-of-unity/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsaspark.org/about/points-of-unity/</guid>
+      <description>INTRO GOES HERE
+Internal Reforms  For the Democratic Socialists of America to achieve its goals, internal democracy is paramount. While the current rules are a solid foundation, more robust commitments to both democratic and republican principles must be incorporated. Open and public criticism of actions taken, by leadership and membership alike, should not just be tolerated but encouraged. Stifling debate and discussion only creates the stagnant sects of the past 80 years.</description>
+    </item>
+    
+    <item>
+      <title>Political Education</title>
+      <link>https://dsaspark.org/about/education/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsaspark.org/about/education/</guid>
+      <description>Mike Macnair&amp;rsquo;s Revolutionary Strategy The free market triumphalism of the 1990s is over. Early 21st century capitalism looks like Karl Marx’s description: growing extremes of wealth and poverty, and irrepressible boom-bust cycles. But for the moment, rightwing religious and nationalist nostalgia politics is the main beneficiary of the opposition this has spawned. The political left remains in the shadow of its disastrous failures in the 20th century.
+The centre-left - where it has not joined forces with the neoliberal right - clings to nationalist and bureaucratic-statist nostalgia for the social-democratic Cold War era.</description>
+    </item>
+    
+  </channel>
+</rss>
