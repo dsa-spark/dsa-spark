@@ -3,6 +3,7 @@ title = "Political Education"
 description = "Recommdned readings"
 date = "2017-09-11"
 layout = "about"
+aliases = [ "/education/" ]
 slug = "education"
 [menu.main]
 name = "Political Education"
