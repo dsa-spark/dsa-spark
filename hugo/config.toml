@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "DSA Spark"
 theme = "hyde"
 contentDir = "content"
-publshDir = "public"
+publshDir = "/home/hugo/site"
 author = "DSA Spark"
 defaultLayout = "post"
 
