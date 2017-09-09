@@ -14,7 +14,7 @@ The Democratic Socialists of America has seen tremendous growth and development 
 
 However, we in DSA Spark also believe the organization needs to be thinking about its next steps, both internally for developing DSA into a truly democratic, mass socialist organization of the working class, and externally to both wider society and the wider left in order for the working class to be the best-equipped to organize itself to take power.  Ultimately, we believe that the Democratic Socialists of America must declare itself to be for a party that can serve as an instrument for working class politics and international socialism, we view the proposals below as the best  framework for such a party. To that end, DSA Spark openly declares our support for these proposals, and seeks to work towards the closest possible unity of the left towards such an end. 
 
-   ## Internal Reforms
+## Internal Reforms
 
 1. For the Democratic Socialists of America to achieve its goals, internal democracy is paramount. While the current rules are a solid foundation, more robust commitments to both democratic and republican principles must be incorporated. Open and public criticism of actions taken, by leadership and membership alike, should not just be tolerated but encouraged. Stifling debate and discussion only creates the stagnant sects of the past 80 years. To that end, the various branches, caucuses, working groups, etcetera would do well to produce their own newspapers, pamphlets, blogs, and more. The flipside of this is that for any criticism to be valuable and useful there must be nearly full transparency in the leadership's process of decisionmaking, at least internally.
 
@@ -22,7 +22,7 @@ However, we in DSA Spark also believe the organization needs to be thinking abou
 
 3. In order to triumph in the class struggle, the proletariat must organize into a political party around a political program that expresses its exclusive class interests. Such a program should be unapologetic in its denunciation of and goal to transcend capitalism for communism, provide the minimum basis for working class political rule, and incorporate the immediate demands of the various sections of the class. Such platforms have found voice in the Erfurt Program of the Social Democratic Party of Germany and the Russian Social Democratic Workers’ Party program from its Second Congress.
 
-   ## Socialist Strategy
+## Socialist Strategy
 
 4. The Democratic Socialists of America must decisively and definitively break from the Democratic Party and other parties of the capitalist class if it ever hopes to achieve its goals. We believe the DSA should take part in building a new, independent political party of the working class. This class party must merge itself with the existing workers' movement and reforge it where it does not exist. Unions have declined in power simultaneously with the socialist movement - this is not a coincidence. However, we cannot wait for the class to move or limit ourselves to mere trade unionism, we must build the workers' movement which is communism - "the real movement which abolishes the present state of things."
 
@@ -32,7 +32,7 @@ However, we in DSA Spark also believe the organization needs to be thinking abou
 
 7. Because the class must constitute itself in a political party and because we should push for reforms favorable to the working class, this party must have both an electoral strategy and a firm commitment to its principles once elected. Representatives of the party must be beholden to its program as the expression of the democratic will of the membership. We must refuse to manage the capitalist state but cannot refuse to engage in the political arena. Towards that end, we should attempt to stymie the capitalist state however we can - refusing to pass budgets, fighting against anti-worker and for agreeable legislation, and other strategic actions.
 
-   ## Communist Internationalism
+## Communist Internationalism
 
 8. We are internationalists. We oppose all forms of imperialism and refuse to side with our own nation-states in worldwide conflicts. In situations of imperialist war the only sensible position to take is revolutionary defeatism: to pursue transforming imperialist war into a revolutionary civil war against world capitalism. We also reject all forms of nationalism as an obstacle to revolution and reject political alliances with nationalists of all stripes. This includes rejecting “socialism in one country” or any other national road to socialism and populist governments. Communist revolution must be international in scope or nothing. In logical continuity with our internationalist principles is also our conviction in the importance of upholding a pro-immigrant stance. This means support for the abolition of borders and maintaining an uncompromising position against all forms of xenophobia and national chauvinism. Anything less would mean departure from the basic ethic of working class solidarity. In countries where nominally “anti imperialist” regimes repress the working class movement our solidarity should always be with the workers not the police. We reject the “global class war” thesis in all its variants.
 
