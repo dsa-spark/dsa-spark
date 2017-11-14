@@ -2,13 +2,21 @@
 title = "DSA Spark"
 description = "It's Lit."
 type = "index"
-date = "2017-09-11"
+date = "2017-11-14"
 slug = "index"
 +++
 
 # DSA Spark
 #### _It's Lit._
 
-We are DSA Spark, members of the Democratic Socialists of America dedicated to radical democracy, Marxist analysis, and a communist future. We call on the Democratic socialists of America to help build a working class political party capable of fighting for socialism at home and abroad. Our goals include: ensuring DSA’s elected officials and organizers remain accountable to the rank-and-file, the adoption of a program detailing the minimum requirements of working class political rule, a definitive break with the Democratic party, and a merger of socialism with the workers movement.
+Two communist DSA caucuses, [Refoundation](https://dsarefoundation.org) and Spark, are happy to announce we are unifying into a single caucus under the Refoundation banner.
 
-For a more details on who we are view our [Points of Unity](/about/points-of-unity/), check out some of our [positions](/posts), or read some more [in-depth, third-party items](/about/education). Or you can contact us via [email](mailto:dsa.spark@gmail.com) or [our contact form](https://docs.google.com/forms/d/e/1FAIpQLScgsA5_tgT3hXI9CiPgZSw1Ixg4VyUdx3d-NlAyhc0FAVqe8A/viewform).
+Refoundation will benefit from the sharp insight and strategic seriousness that our Spark comrades will bring, and we could not be more proud to have them join and improve our already significant and expanding project.
+ 
+Spark in its turn hopes to add a commitment to internal reform to an already robust Refoundation platform, with emphasis on a term-limited and recallable DSA leadership.
+
+We come from different historical and ideological backgrounds, with Spark being informed by the early Kautsky and Mike Macnair. But an honest look at the existing world has led us to converge on practical conclusions. We don't need to agree on the precise nature of the USSR, for instance, to see that the Democrats are not a viable path to socialism. Theoretical disagreement is fine, and even healthy, if we are fighting for the same programmatic goals.
+
+Together we aim to unite DSA's left wing with a vivid vision of revolutionary socialism. Like DSA itself we are built on a merger, because we are stronger together.
+
+We hope you will [join us](https://dsarefoundation.org/join/).
